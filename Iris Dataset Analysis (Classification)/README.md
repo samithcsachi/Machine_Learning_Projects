@@ -16,6 +16,9 @@ The columns in this dataset are:
 - PetalWidthCm
 - Species
 
+Dataset Link : [https://www.kaggle.com/datasets/uciml/iris](https://www.kaggle.com/datasets/uciml/iris)
+Kaggle Link : [https://www.kaggle.com/code/samithsachidanandan/iris-dataset-analysis-classification/notebook](https://www.kaggle.com/code/samithsachidanandan/iris-dataset-analysis-classification/notebook)
+
 
 # Libraries
 
