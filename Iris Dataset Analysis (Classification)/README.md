@@ -1,6 +1,6 @@
 # Iris Dataset Analysis (Classification)
 
-In this Project we doing the basic Analysis of Iris Dataset which is a very popular Dataset. We have used different classification Algorithm to Predict the Species in the Dataet. 
+In this Project we doing the basic Analysis of Iris Dataset which is a very popular Dataset. We have used different classification Algorithm to Predict the Species in the Dataset. 
 
 
 # Dataset
@@ -42,5 +42,11 @@ Below algorithms was used in the Project.
 
 # Learning from the Project 
 
-Have tried different algorithms for prediction. This was a simple and clean dataset so model was able to get 100 % accuracy without much hypertunning. Was able to basic model prediction using differnt classification algorithms. 
+Have tried different algorithms for prediction. This was a simple and clean dataset so model was able to get 100 % accuracy without much hypertunning. Was able to basic model prediction using different classification algorithms. 
 
+
+## Contact
+If you have any questions, suggestions, or collaborations in data science, feel free to reach out:
+- 📧 Email: [samith.sachi@gmail.com](mailto:samith.sachi@gmail.com)
+- 🔗 LinkedIn: [www.linkedin.com/in/samithchimminiyan](https://www.linkedin.com/in/samithchimminiyan)
+- 🌐 Website: [www.samithc.com](https://www.samithc.com)
