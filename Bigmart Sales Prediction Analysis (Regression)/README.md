@@ -1,6 +1,6 @@
 # Bigmart Sales Prediction Analysis (Regression)
 
-In this project we are trying to predict Bigmart Sales Prediction Analysis using python language. We have used different classification Algorithm to Predict the loan approval status in the Dataset. 
+In this project we are trying to predict Bigmart Sales Prediction Analysis using python language. We have used different Regression Algorithm to Predict the loan approval status in the Dataset. 
 
 # Dataset
 
