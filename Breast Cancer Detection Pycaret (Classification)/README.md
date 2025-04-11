@@ -4,7 +4,7 @@ In this project we are trying to predict Breast Cancer Detection using python la
 
 # Dataset
 
-The dataset contains the  Bigmart Sales. 
+The dataset contains the  Breast Cancer data. 
 
           
 
