@@ -27,7 +27,7 @@ Below libraries was used for the visualization and model training.
 
 Below algorithms was used in the Project. 
 
-- Logistic Regression
+- Logistic Classifier
 - Decision Tree 
 - Random Forest
 - Extra Trees Classifier 
